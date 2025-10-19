@@ -1,0 +1,83 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    background: #f7f9fc;
+    color: #333;
+  }
+  
+  header {
+    background: #2a4d69;
+    color: white;
+    text-align: center;
+    padding: 2rem 2rem;
+  }
+  
+  .subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contacto a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 0.5rem;
+  }
+  
+  main {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+  
+  section {
+    margin-bottom: 2rem;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #2a4d69;
+    padding-bottom: 0.3rem;
+    color: #2a4d69;
+  }
+  
+  .item {
+    margin: 1rem 0;
+  }
+  
+  .fecha {
+    color: #777;
+    font-size: 0.9rem;
+    padding-top: 0%;
+    margin-top: 0%;
+  }
+
+  img {
+    max-width: 50vw;
+    box-shadow: 0 0 4px rgba(0,0,0,0.5);
+  }
+  
+
+  input, textarea, button {
+    padding: 0.6rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+  }
+  
+  button {
+    background-color: #1e3a8a;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #3b82f6;
+  }
+  footer {
+    background: #2a4d69;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 3rem;
+  }
+    
